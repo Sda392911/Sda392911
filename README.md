@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Yvan Gauthier
-This is the test 
+# 👋 Hi, I’m Yvan Gauthier 
+I'm a software developer passinate about UNIX system. 
 
   ![macOS](https://img.shields.io/badge/macOS-15.3-blue?style=for-the-badge&logo=apple)
   ![Xcode](https://img.shields.io/badge/Xcode-16.0-blue?style=for-the-badge&logo=xcode)
