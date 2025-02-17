@@ -13,6 +13,7 @@ criticism, I'm perfectly fine with it. 😉
 --------
 ## 🛠️ Tool, languages and framework.
 
+
   ![macOS](https://img.shields.io/badge/macOS-15.3-blue?style=for-the-badge&logo=apple)
   ![Xcode](https://img.shields.io/badge/Xcode-16.0-blue?style=for-the-badge&logo=xcode)
   ![Git](https://img.shields.io/badge/Git-2.33.0-orange?style=for-the-badge&logo=git)
