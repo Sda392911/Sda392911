@@ -13,6 +13,10 @@ criticism, I'm perfectly fine with it. 😉
 --------
 ## 🛠️ Tool, languages and framework.
 
+[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
 
   ![macOS](https://img.shields.io/badge/macOS-15.3-blue?style=for-the-badge&logo=apple)
   ![Xcode](https://img.shields.io/badge/Xcode-16.0-blue?style=for-the-badge&logo=xcode)
