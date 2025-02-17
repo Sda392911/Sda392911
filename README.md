@@ -4,7 +4,8 @@ I'm a software engineer interested in building software for the Apple ecosystem.
 For the past few years, I've been running macOS, which is now my daily driver, and I love it. I've decided to focus my efforts on this platform. I'm always eager to learn and talk about tech-related subjects, discuss ideas, or hear feedback on what's working and what isn't. As long as it's constructive criticism, I'm perfectly fine with it. 😉
 
 --------
-<h2  style="text-align: center;">🛠️ Tools and Language </h2> 
+<h1 style="text-align: center;">Your Title</h1>
+
 
   ![macOS](https://img.shields.io/badge/macOS-15.3-blue?style=for-the-badge&logo=apple)
   ![Xcode](https://img.shields.io/badge/Xcode-16.0-blue?style=for-the-badge&logo=xcode)
