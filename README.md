@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Yvan Gauthier 
-A software engineer with a passion native iOS, MacOS, iPadOS, and WatchOS software  development. With some experience working with Linux I also enjoy learning and working on sytem and imbeded software, I enjoy tackling complex problems, building tools, and delving into low-level development. I have a strong interest in mastering deep technical subjects like C and C++ programming, but also Swift, Objective-C, beeing the prefered languages for the Appple ecosystem. 
+I'm a software engineer interested in building software for the Apple ecosystem. I enjoy working with low-level languages such as C, C++, Objective-C, and Swift to produce useful software that people would enjoy using, whether to help or entertain them in their daily lives. I have a decade of experience working with UNIX systems like GNU/Linux, which I successfully used as my daily driver.
 
-When I'm not coding, I'm certainly working on my other interest with is my math skills, sport exercice, and movies. 
-
+For the past few years, I've been running macOS, which is now my daily driver, and I love it. I've decided to focus my efforts on this platform. I'm always eager to learn and talk about tech-related subjects, discuss ideas, or hear feedback on what's working and what isn't. As long as it's constructive criticism, I'm perfectly fine with it. 😉
 
 --------
 ## 🛠️ Tools and Language 
