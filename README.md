@@ -21,12 +21,17 @@ talk about tech-related subjects, discuss ideas, or hear feedback on what's work
   ![C++](https://img.shields.io/badge/C++-17-%2300599C?style=for-the-badge&logo=c%2B%2B)
   ![Objective-C](https://img.shields.io/badge/Objective--C-2.0-blue?style=for-the-badge&logo=apple)
 
----------
+--------
 ## 👀 I'm interested in ... 
 Building quality software, I love understanding the ins and outs of the software I write. I believe that, in most cases, understanding things at the deepest possible level allows us to make better decisions when solving specific problems. That’s why I love old-school languages like C and C++ so much—they allow developers to dive deep into what we do.
 
 Of course, I’m not a C expert yet, and I’m still learning, but I love these languages for that reason alone. Objective-C is another language I’m going to investigate and experiment with, as it’s the main language used by Apple for their drivers.
 _________
+##  Projects
+List a few key projects that showcase your skills, including links to repositories or websites.
+Example:
+
+---------
 ## 📫 How to reach me ?
 You can reach me on github of course. 
  - On Mastdon at ... 
